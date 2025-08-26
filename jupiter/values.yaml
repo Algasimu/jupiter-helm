@@ -3,5 +3,8 @@ image:
   tag: latest
   pullPolicy: IfNotPresent
 
-appMessage: "This is my jupiter app"
+appMessage: "This is my jupiter-app"
 
+service:
+  type: ClusterIP
+  port: 80
