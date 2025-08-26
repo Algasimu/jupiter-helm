@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jupiter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-25T23:01:56.629901-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 90798d475f6a1595d3a7c2a57903b601aa657f27ff70c204f73a3600d179b292
+    name: jupiter
+    type: application
+    urls:
+    - jupiter-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-25T23:01:56.626365-05:00"
