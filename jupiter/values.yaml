@@ -6,5 +6,4 @@ image:
 appMessage: "This is my jupiter-app"
 
 service:
-  type: ClusterIP
   port: 80
